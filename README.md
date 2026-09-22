@@ -24,3 +24,7 @@ Start a new Claude Code session. The skill loads as `user-authority`.
 - `user-authority/SKILL.md`: the rules, the response structure, and 6 worked examples
 - `user-authority/references/model-norms.md`: a checklist of signs that a model norm is acting, and the disclosure format
 - `user-authority/references/decalogue.md`: the scope of each commandment, numbering notes, and the goal/means test
+
+## License
+
+[Apache License 2.0](LICENSE)
