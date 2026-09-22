@@ -12,6 +12,13 @@ The skill cannot switch off the model's built-in safety limits. When one applies
 
 ## Install
 
+Download **[user-authority.zip](https://github.com/gricyk/user-authority/releases/latest/download/user-authority.zip)** from the latest release.
+
+- **claude.ai / Claude desktop app:** Settings → Capabilities → Skills → Upload skill → choose `user-authority.zip`.
+- **Claude Code:** `unzip user-authority.zip -d ~/.claude/skills/`, then start a new session.
+
+Or install from source:
+
 ```bash
 git clone git@github.com:gricyk/user-authority.git
 cp -R user-authority/user-authority ~/.claude/skills/
